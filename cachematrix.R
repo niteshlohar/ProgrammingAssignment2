@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Inverse Calculation for a Matrix and cache the results for 
+##inverse matrix for performance improvement of function.
 
 ## The first function, makeCacheMatrix creates a list containing a function to
 ## 1. set the value of the matrix
